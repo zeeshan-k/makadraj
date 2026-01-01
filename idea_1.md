@@ -10,9 +10,10 @@
 - **Queen Lokamahadevi** – A renowned queen of the Chalukya empire
 - **Krishna Deva Raya** – Greatest Vijayanagara ruler who had managed to contain the evil demons during his rule
 - **City Tales** – A group of modern history explorers  
-- **Rameen** – Leader and guide; connects history, logic, and instinct  
+- **Rameen** – Leader and guide; connects history, logic, and instinct
+- **Ujjayant** – Photographer; visual chronicler of ruins, anomalies, and history in motion 
+- **Snigdha** – Decipherer of inscriptions and hidden languages
 - **Arnab** – Timeless traveler across eras  
-- **Snigdha** – Decipherer of inscriptions and hidden languages  
 - **Sriram** – Possesses a thunderous voice  
 - **Anand** – Can bring sculptures to life by touch  
 - **Bansari** – Animal whisperer; commands living sculptures  
@@ -50,7 +51,16 @@ Now a city of whispers, shadows, and unanswered prayers.
 
 ---
 
-### Panel 3: Pattabhirama Temple
+### Panel 3: Silent Documentation  
+*Ujjayant lingers behind the group, patiently framing the ruins through his camera.*
+
+**Ujjayant (softly, to himself):**  
+> These stones…  
+> they feel older than they look.
+
+---
+
+### Panel 4: Pattabhirama Temple
 *Inside the temple. Sunlight slices through the matrix of ancient pillars.*
 
 **Snigdha** kneels before an inscription written in a long forgotten script.
@@ -62,19 +72,19 @@ Now a city of whispers, shadows, and unanswered prayers.
 
 ---
 
-### Panel 4: The Warning  
+### Panel 5: The Warning  
 *Ancient letters faintly glow.*
 
 **Snigdha:**  
 > It speaks of a sealed terror beneath the Gopuram.  
-> Bound, not destroyed.
+> Bound, but not destroyed.
 
 **Rameen:**  
 > History doesn’t bury things without reason.
 
 ---
 
-### Panel 5: The Fatal Touch  
+### Panel 6: The Fatal Touch  
 *Rameen brushes against a disguised stone slab.*
 
 **SFX:** `KRRRRRR—THOOM`
@@ -84,26 +94,42 @@ A sound not heard for centuries… awakens.
 
 ---
 
-### Panel 6: Awakening of Makadraj  
+### Panel 7: Awakening of Makadraj  
 *The Gopuram trembles. Massive spider-like limbs tear free out of it.*
 
 **Narration:**  
 Makadraj—  
-the devourer beneath the temple.  
-The nightmare the city forgot.
+the devourer captured beneath the Gopuram.  
+The nightmare that humanity had forgotten.
 
 ---
 
-### Panel 7: Rampage  
-*Mandapas collapse. Mini spider demons spill out.*
+### Panel 8: Rampage  
+*Mandapas collapse violently. Stone pillars snap like twigs. Mini spider demons pour out in swarms as Makadraj lets out a deafening, ancient shriek.*
 
 **Narration:**  
-Stones scream. 
-Faith fractures.
+Centuries of silence shatter in a single breath.  
+The earth convulses.  
+The nightmare wakes fully.
+
+*The group panics—some freeze, some stumble backward.*
+
+**Rameen (shouting):**  
+> Everyone—move! We fall back, NOW!
+
+*As the others flee toward the bus, **Ujjayant stands his ground for a moment**, hands shaking but camera steady, furiously clicking photographs of Makadraj tearing through sacred stone.*
+
+**SFX:** `CLICK—CLICK—CLICK`
+
+**Ujjayant (under his breath):**  
+> No one will believe this…  
+> unless it’s seen.
+
+*Makadraj’s colossal shadow fills Ujjayant’s frame as debris rains down from the sky.*
 
 ---
 
-### Panel 8: The Escape  
+### Panel 9: The Escape  
 *Manjunath drifts the bus through falling debris.*
 
 **Manjunath:**  
@@ -120,7 +146,7 @@ Faith fractures.
 
 ---
 
-### Panel 9: Refuge at Virupaksha 
+### Panel 10: Refuge at Virupaksha 
 *Near Virupaksha Temple. Smoke in the distance.*
 *The group regroups, shaken.*
 
@@ -131,7 +157,7 @@ Faith fractures.
 
 ---
 
-### Panel 10: The Riddle Revealed  
+### Panel 11: The Riddle Revealed  
 
 > **Riddle:**  
 > A gyani from beyond the Vindhyas  
@@ -141,7 +167,7 @@ Faith fractures.
 
 ---
 
-### Panel 11: Confusion  
+### Panel 12: Confusion  
 
 **Anand:**  
 > Time travel? Kalash? Sins?
@@ -153,24 +179,24 @@ Faith fractures.
 
 ---
 
-### Panel 12: Varaha’s Call  
+### Panel 13: Varaha’s Call  
 *Arnab is curious about a Varaha sculpture. He accidentally touches a carved Varaha tooth.*
 
 **SFX:** `FLASH`
 
 ---
 
-### Panel 13: Vision  
+### Panel 14: Vision  
 *Arnab sees Varaha lifting the earth.*
 
 **Arnab (echoing):**  
-> Time is not a line.  
+> Time is not a straight line.  
 > It is a circle.
 > It never leaves behind. It remembers.
 
 ---
 
-### Panel 14: Acceptance  
+### Panel 15: Acceptance  
 
 **Arnab:**  
 > I can cross eras.  
@@ -182,7 +208,7 @@ Faith fractures.
 
 ---
 
-### Panel 15: The Decision  
+### Panel 16: The Decision  
 *Makadraj’s distant screeches echo.*
 
 **Arnab:**  
@@ -192,7 +218,7 @@ Faith fractures.
 
 ---
 
-### Panel 16: Connecting the dots of the Past  
+### Panel 17: Connecting the dots of the Past  
 *Exploring some more inscriptions*
 
 **Snigdha:**  
@@ -202,7 +228,7 @@ Faith fractures.
 
 ---
 
-### Panel 17: Confession  
+### Panel 18: Confession  
 *Close-up of Arnab. His face carries centuries of fatigue.*
 
 **Arnab:**  
@@ -214,7 +240,7 @@ Faith fractures.
 > you can actually take us there?
 ---
 
-### Panel 18: Staff of Passage  
+### Panel 19: Staff of Passage  
 *Arnab pulls a staff from the earth — etched with symbols of Varaha, time spirals, and river motifs.*
 
 **Arnab:**  
@@ -222,7 +248,7 @@ Faith fractures.
 
 ---
 
-### Panel 19: Chant  
+### Panel 20: Chant  
 *Arnab plants the staff. The ground vibrates.*
 
 **Arnab (chanting):**  
@@ -234,7 +260,7 @@ Faith fractures.
 
 ---
 
-### Panel 20: Time Tear  
+### Panel 21: Time Tear  
 *Reality folds.*
 
 **Narration:**  
@@ -242,7 +268,16 @@ Stone remembers every century.
 
 ---
 
-### Panel 21: Pattadakal – 8th Century CE  
+### Panel 22: Distortion  
+*As time bends, Ujjayant’s camera screen glitches—layers of past and present overlap.*
+
+**Ujjayant (alarmed):**  
+> This isn’t motion blur…  
+> Time itself is shifting.
+
+---
+
+### Panel 22: Pattadakal – 8th Century CE  
 *Living temples, garlands, rituals.*
 
 **Sriram (awed):**  
@@ -250,7 +285,7 @@ Stone remembers every century.
 
 ---
 
-### Panel 22: Shock  
+### Panel 23: Shock  
 
 **Bansari:**  
 > We’re inside history. This is impossible. Am I dreaming?
@@ -260,7 +295,7 @@ Stone remembers every century.
 
 ---
 
-### Panel 23: Royal Procession  
+### Panel 24: Royal Procession  
 *A royal procession approaches. Elephants. Soldiers. Priests. At the center — Queen Lokamahadevi.*
 
 **Narration:**  
@@ -272,7 +307,7 @@ The queen who carved devotion into stone.
 
 ---
 
-### Panel 24: Court Halt  
+### Panel 25: Court Halt  
 *Guards block the group.*
 
 **Guard:**  
@@ -282,7 +317,7 @@ The queen who carved devotion into stone.
 
 ---
 
-### Panel 25: Thunder Voice  
+### Panel 26: Thunder Voice  
 *Sriram steps forward.*
 
 **Sriram (booming):**  
@@ -293,7 +328,7 @@ The queen who carved devotion into stone.
 
 ---
 
-### Panel 26: Queen Notices them  
+### Panel 27: Queen Notices them  
 *Lokamahadevi studies them calmly.*
 
 **Lokamahadevi:**  
@@ -304,7 +339,7 @@ The queen who carved devotion into stone.
 
 ---
 
-### Panel 27: Warning  
+### Panel 28: Warning  
 
 **Rameen (bowing):**  
 > Your Majesty,  
@@ -313,7 +348,7 @@ The queen who carved devotion into stone.
 
 ---
 
-### Panel 28: Makadraj Named  
+### Panel 29: Makadraj Named  
 
 **Snigdha:**  
 > Makadraj.  
@@ -322,7 +357,7 @@ The queen who carved devotion into stone.
 *Court murmurs.*
 ---
 
-### Panel 29: Skepticism
+### Panel 30: Skepticism
 
 **Court Scholar:**  
 > Time travelers? Monsters?  
@@ -330,7 +365,7 @@ The queen who carved devotion into stone.
 
 ---
 
-### Panel 30: Arnab Steps Forward
+### Panel 31: Arnab Steps Forward
 *Arnab removes his gloves. Ancient scars glow faintly.*
 
 **Arnab:**  
@@ -338,7 +373,7 @@ The queen who carved devotion into stone.
 
 ---
 
-### Panel 31: Vision of the Future
+### Panel 32: Vision of the Future
 *Arnab touches the temple floor. A vision erupts — Hampi in flames, Makadraj rising, people fleeing, devastation all around.*
 
 **Narration:**  
@@ -346,7 +381,7 @@ The past sees the future it will accidentally create.
 
 ---
 
-### Panel 32: Queen’s Realization
+### Panel 33: Queen’s Realization
 *Lokamahadevi grips her throne.*
 
 **Lokamahadevi (softly):**  
@@ -355,7 +390,7 @@ The past sees the future it will accidentally create.
 
 ---
 
-### Panel 33: The Kalasha Mentioned
+### Panel 34: The Kalasha Mentioned
 **Lokamahadevi:**  
 > You spoke of a Kalash?
 
@@ -365,7 +400,7 @@ The past sees the future it will accidentally create.
 
 ---
 
-### Panel 34: Sacred Responsibility
+### Panel 35: Sacred Responsibility
 **Lokamahadevi:**  
 > I know what you speak of.  
 > An ancient relic passed down to us by our forefathers.
@@ -374,7 +409,7 @@ The past sees the future it will accidentally create.
 
 ---
 
-### Panel 35: Trust Earned
+### Panel 36: Trust Earned
 *The queen steps down from her throne.*
 
 **Lokamahadevi:**  
@@ -383,7 +418,7 @@ The past sees the future it will accidentally create.
 
 ---
 
-### Panel 36: The Weight of Time
+### Panel 37: The Weight of Time
 *Arnab bows deeply.*
 
 **Arnab:**  
@@ -392,7 +427,7 @@ The past sees the future it will accidentally create.
 
 ---
 
-### Panel 37: Closing Image
+### Panel 38: Closing Image
 *The Kalasha is placed before the queen. Torchlight flickers.*
 
 **Narration:**  
@@ -409,7 +444,7 @@ so the future may survive itself.
 
 ---
 
-### Panel 38: A Memory Rekindled  
+### Panel 39: A Memory Rekindled  
 *Close-up of Rameen. His eyes widen as he recalls something.*
 
 **Rameen (urgent):**  
@@ -420,7 +455,7 @@ so the future may survive itself.
 
 ---
 
-### Panel 39: The Forgotten Inscription  
+### Panel 40: The Forgotten Inscription  
 *Visual overlay of an ancient stone slab, words etched deep.*
 
 **Snigdha (narration):**  
@@ -430,7 +465,7 @@ so the future may survive itself.
 
 ---
 
-### Panel 40: The Missing Chapter  
+### Panel 41: The Missing Chapter  
 *Rameen steps closer.*
 
 **Rameen:**  
@@ -440,7 +475,7 @@ so the future may survive itself.
 
 ---
 
-### Panel 41: The Realization  
+### Panel 42: The Realization  
 *Arnab grips his staff.*
 
 **Arnab:**  
@@ -452,7 +487,7 @@ so the future may survive itself.
 
 ---
 
-### Panel 42: The Queen’s Resolve  
+### Panel 43: The Queen’s Resolve  
 *Lokamahadevi steps forward, calm yet commanding.*
 
 **Lokamahadevi:**  
@@ -461,7 +496,7 @@ so the future may survive itself.
 
 ---
 
-### Panel 43: Opening the Second Portal  
+### Panel 44: Opening the Second Portal  
 *Arnab plants the staff. Time symbols ignite.*
 
 **Arnab (chanting):**  
@@ -473,7 +508,7 @@ so the future may survive itself.
 
 ---
 
-### Panel 44: Fall Through Time  
+### Panel 45: Fall Through Time  
 *The world stretches and bends.*
 
 **Narration:**  
@@ -482,7 +517,7 @@ who carry truth across centuries.
 
 ---
 
-### Panel 45: Vijayanagara – 16th Century CE  
+### Panel 46: Vijayanagara – 16th Century CE  
 *The grandeur of the empire at its peak. Markets, temples, banners.*
 
 **Rameen (awed):**  
@@ -491,7 +526,7 @@ who carry truth across centuries.
 
 ---
 
-### Panel 46: The Emperor Appears  
+### Panel 47: The Emperor Appears  
 *Krishna Deva Raya stands tall, armored yet serene.*
 
 **Narration:**  
@@ -500,7 +535,7 @@ but for restraint.
 
 ---
 
-### Panel 47: The Threat Revealed  
+### Panel 48: The Threat Revealed  
 *Makadraj, partially awakened, writhes beneath the earth.*
 
 **Narration:**  
@@ -509,7 +544,7 @@ Sometimes… it waits.
 
 ---
 
-### Panel 48: The Sacred Journey  
+### Panel 49: The Sacred Journey  
 *Krishna Deva Raya walks toward the Tungabhadra.*
 
 **Priest:**  
@@ -518,7 +553,7 @@ Sometimes… it waits.
 
 ---
 
-### Panel 49: Nandi’s Cave  
+### Panel 50: Nandi’s Cave  
 *Dark cavern. Water glows faintly.*
 
 **Narration:**  
@@ -527,7 +562,7 @@ Some whisper.
 
 ---
 
-### Panel 50: Filling the Kalash  
+### Panel 51: Filling the Kalash  
 *Krishna Deva Raya fills the Kalash.*
 
 **Krishna Deva Raya:**  
@@ -536,14 +571,14 @@ Some whisper.
 
 ---
 
-### Panel 51: The Final Act  
+### Panel 52: The Final Act  
 *The king splashes the water upon Makadraj.*
 
 **SFX:** `SHHHHHHHHHHH`
 
 ---
 
-### Panel 52: Hibernation  
+### Panel 53: Hibernation  
 *Makadraj freezes instantly, turning into stone.*
 
 **Narration:**  
@@ -553,7 +588,7 @@ Contained.
 
 ---
 
-### Panel 53: The Gopuram Ordered  
+### Panel 54: The Gopuram Ordered  
 *Krishna Deva Raya gestures firmly.*
 
 **Krishna Deva Raya:**  
@@ -562,7 +597,7 @@ Contained.
 
 ---
 
-### Panel 54: History Set in Motion  
+### Panel 55: History Set in Motion  
 *Workers raise the Gopuram.*
 
 **Narration:**  
@@ -571,7 +606,7 @@ was once a seal.
 
 ---
 
-### Panel 55: Return to the Present  
+### Panel 56: Return to the Present  
 *The vision fades.*
 
 **Arnab:**  
@@ -579,7 +614,7 @@ was once a seal.
 
 ---
 
-### Panel 56: Queen Lokamahadevi’s Acceptance  
+### Panel 57: Queen Lokamahadevi’s Acceptance  
 *Lokamahadevi looks at the Kalash in Arnab’s hands.*
 
 **Lokamahadevi:**  
@@ -587,7 +622,7 @@ was once a seal.
 
 ---
 
-### Panel 57: Closing of Issue #4  
+### Panel 58: Closing of Issue #4  
 *The time portal stabilizes, glowing steadily.*
 
 **Narration:**  
@@ -600,7 +635,7 @@ Others guard time itself.
 
 ---
 
-### Panel 58: The City in Crisis  
+### Panel 59: The City in Crisis  
 *Wide shot of Hampi. Fires rage. Mini spider demons swarm across ruins.*
 
 **Narration:**  
@@ -609,7 +644,7 @@ The present demands payment.
 
 ---
 
-### Panel 59: Rameen Takes Command  
+### Panel 60: Rameen Takes Command  
 *Rameen stands at the riverbank, shouting over chaos.*
 
 **Rameen:**  
@@ -619,7 +654,7 @@ The present demands payment.
 
 ---
 
-### Panel 60: The Split  
+### Panel 61: The Split  
 *Quick cuts of faces.*
 
 **Rameen:**  
@@ -635,7 +670,7 @@ The present demands payment.
 
 ---
 
-### Panel 61: Reluctant Sailor  
+### Panel 62: Reluctant Sailor  
 *Ravi backs away from his coracle, terrified.*
 
 **Ravi:**  
@@ -643,7 +678,7 @@ The present demands payment.
 
 ---
 
-### Panel 62: Sekhar’s Persuasion  
+### Panel 63: Sekhar’s Persuasion  
 *Sekhar locks eyes with Ravi.*
 
 **Sekhar (soft, hypnotic):**  
@@ -654,7 +689,7 @@ The present demands payment.
 
 ---
 
-### Panel 63: Revolver Ravi Agrees  
+### Panel 64: Revolver Ravi Agrees  
 *Ravi steps into the coracle.*
 
 **Ravi:**  
@@ -664,7 +699,7 @@ The present demands payment.
 
 ---
 
-### Panel 64: Yali Awakens  
+### Panel 65: Yali Awakens  
 *Back on land. Anand places his palm on a stone Yali.*
 
 **SFX:** `ZZZAAAK`
@@ -673,7 +708,7 @@ The present demands payment.
 
 ---
 
-### Panel 65: Stone Becomes Flesh  
+### Panel 66: Stone Becomes Flesh  
 *Yalis roar to life, eyes blazing.*
 
 **Narration:**  
@@ -681,7 +716,7 @@ Stone remembers its purpose.
 
 ---
 
-### Panel 66: The Whisperer  
+### Panel 67: The Whisperer  
 *Bansari raises her hand, calm amid chaos.*
 
 **Bansari:**  
@@ -692,7 +727,7 @@ Stone remembers its purpose.
 
 ---
 
-### Panel 67: Clash on the Mainland  
+### Panel 68: Clash on the Mainland  
 *Yalis charge into waves of demons.*
 
 **Narration:**  
@@ -701,7 +736,7 @@ Stone meets demon.
 
 ---
 
-### Panel 68: River of Death  
+### Panel 69: River of Death  
 *The coracle moves through the Tungabhadra.*
 
 **Snigdha (tense):**  
@@ -709,15 +744,15 @@ Stone meets demon.
 
 ---
 
-### Panel 69: Crocodile Ambush  
-*Dozens of crocodiles surround the boat.*
+### Panel 70: Crocodile Ambush  
+*Dozens of huge crocodiles surround the boat.*
 
 **Arnab:**  
 > Ravi… now would be a good time.
 
 ---
 
-### Panel 70: Revolver Ravi  
+### Panel 71: Revolver Ravi  
 *Ravi grins nervously.*
 
 **Ravi:**  
@@ -727,7 +762,7 @@ Stone meets demon.
 
 ---
 
-### Panel 71: River Clears  
+### Panel 72: River Clears  
 *Crocs scatter in panic.*
 
 **Narration:**  
@@ -735,7 +770,7 @@ Fear recognizes madness.
 
 ---
 
-### Panel 72: Mainland Turning Grim  
+### Panel 73: Mainland Turning Grim  
 *Yalis begin to falter. Demons overwhelm them.*
 
 **Bansari (strained):**  
@@ -743,7 +778,7 @@ Fear recognizes madness.
 
 ---
 
-### Panel 73: Zeeshan Feels the Call  
+### Panel 74: Zeeshan Feels the Call  
 *Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Raises his head *
 
 **Narration:**  
@@ -751,7 +786,7 @@ Fire listens, before it obeys.
 
 ---
 
-### Panel 74: Agneyastra Appears  
+### Panel 75: Agneyastra Appears  
 *A blazing staff manifests in Zeeshan’s hand.*
 
 **Zeeshan (low):**  
@@ -759,7 +794,7 @@ Fire listens, before it obeys.
 
 ---
 
-### Panel 75: Fire Unleashed  
+### Panel 76: Fire Unleashed  
 *A colossal stream of fire erupts from the staff.*
 
 **Narration:**  
@@ -767,7 +802,7 @@ Flame does not negotiate.
 
 ---
 
-### Panel 76: Demons Obliterated  
+### Panel 77: Demons Obliterated  
 *Entire waves of demons vanish into ash.*
 
 **Anand (stunned):**  
@@ -775,7 +810,7 @@ Flame does not negotiate.
 
 ---
 
-### Panel 77: Boat Returns  
+### Panel 78: Boat Returns  
 *The coracle reaches shore safely.*
 
 **Rameen:**  
@@ -783,7 +818,7 @@ Flame does not negotiate.
 
 ---
 
-### Panel 78: A walk of Fire  
+### Panel 79: A walk of Fire  
 *Zeeshan leads the group toward the temple, torching the demons.*
 
 **Narration:**  
@@ -792,7 +827,7 @@ burns the past’s mistake.
 
 ---
 
-### Panel 79: The Gopuram Revealed  
+### Panel 80: The Gopuram Revealed  
 *Makadraj rises in full, colossal form.*
 
 **Narration:**  
@@ -800,7 +835,7 @@ The nightmare stands whole.
 
 ---
 
-### Panel 80: Agneyastra vs Makadraj  
+### Panel 81: Agneyastra vs Makadraj  
 *Fire engulfs Makadraj. It writhes in agony.*
 
 **Narration:**  
@@ -809,7 +844,7 @@ But cannot finish.
 
 ---
 
-### Panel 81: The Final Act  
+### Panel 82: The Final Act  
 *Rameen steps forward with the Kalash.*
 
 **Rameen (firm):**  
@@ -817,14 +852,14 @@ But cannot finish.
 
 ---
 
-### Panel 82: Sacred Water  
+### Panel 83: Sacred Water  
 *The Tungabhadra water splashes Makadraj.*
 
 **SFX:** `SHHHHHHHHH`
 
 ---
 
-### Panel 83: Eternal Sleep  
+### Panel 84: Eternal Sleep  
 *Makadraj freezes into stone, limbs locking mid-roar.*
 
 **Narration:**  
@@ -832,9 +867,6 @@ Not slain.
 Sealed.  
 Again.
 
----
-
-### Panel 84: Silence  
 *Ash settles. Fires die.*
 
 ---
@@ -844,6 +876,32 @@ Again.
 
 **Rameen:**  
 > History held… this time.
+
+---
+
+### Panel 86: Proof That Remains  
+*Quiet moment amid the ruins. Dust settles. The city exhales.*
+
+*Ujjayant sits on a fallen stone, hands still trembling slightly as he scrolls through his camera screen.*
+
+*On the camera display: frozen frames of Makadraj rising, demons swarming, fire and water colliding.*
+
+**Sriram (stunned):**  
+> You… captured all of this?
+
+**Ujjayant (calm, almost reverent):**  
+> Someone has to remember it  
+> the way it truly happened.
+
+*Rameen looks at the images, then at the ruins beyond.*
+
+**Rameen:**  
+> Then history won’t forget this time.
+
+**Narration:**  
+Stone may crumble.  
+Stories may fade.  
+But proof… endures.
 
 ---
 
