@@ -405,62 +405,197 @@ so the future may survive itself.
 
 ---
 
-## ISSUE #4 – KINGS AND KALASHA
+## ISSUE #4 – THE KING WHO SEALED THE NIGHTMARE
 
 ---
 
-### Panel 31: Time Portal Opens  
-*A portal reopens.*
+### Panel 38: A Memory Rekindled  
+*Close-up of Snigdha. Her eyes widen as she recalls something.*
 
-**Narration:**  
-A queen steps beyond her century.
-
----
-
-### Panel 32: 2025 CE – Hampi  
-*Lokamahadevi witnesses destruction.*
-
-**Lokamahadevi:**  
-> This evil endured…
+**Snigdha (urgent):**  
+> Wait.  
+> There was another inscription…  
+> I read it years ago.  
+> I didn’t understand it then.
 
 ---
 
-### Panel 33: Second Inscription  
-*Snigdha deciphers another slab.*
+### Panel 39: The Forgotten Inscription  
+*Visual overlay of an ancient stone slab, words etched deep.*
 
-**Snigdha:**  
-> Krishna Deva Raya…  
-> sealed Makadraj forever.
+**Snigdha (narration):**  
+> It spoke of a king who did not merely rule…  
+> but **contained**.  
+> Krishna Deva Raya.
 
 ---
 
-### Panel 34: New Destination  
+### Panel 40: The Missing Chapter  
+*Rameen steps closer.*
 
 **Rameen:**  
-> Then we must witness it.
+> Vijayanagara’s greatest ruler.  
+> If anyone could have sealed Makadraj forever…  
+> it would be him.
 
 ---
 
-### Panel 35: Vijayanagara – 16th Century  
-*Krishna Deva Raya stands with the Kalasha.*
+### Panel 41: The Realization  
+*Arnab grips his staff.*
+
+**Arnab:**  
+> Lokamahadevi entrusted us with the Kalash…  
+> but the *method* was perfected centuries later.
+
+**Arnab (low, resolute):**  
+> We must witness it.
 
 ---
 
-### Panel 36: The Containment  
-*Sacred Tungabhadra water splashes Makadraj.*
+### Panel 42: The Queen’s Resolve  
+*Lokamahadevi steps forward, calm yet commanding.*
+
+**Lokamahadevi:**  
+> If this demon survives my age to threaten yours…  
+> then I too must see how it was finally bound.
+
+---
+
+### Panel 43: Opening the Second Portal  
+*Arnab plants the staff. Time symbols ignite.*
+
+**Arnab (chanting):**  
+> Kaala pravaha…  
+> Itihaasa sakshi…  
+> Vijayanagaraaya namah!
+
+**SFX:** `WHOOOOOM`
+
+---
+
+### Panel 44: Fall Through Time  
+*The world stretches and bends.*
 
 **Narration:**  
-Fire weakens.  
-Water ends.
+Time does not resist those  
+who carry truth across centuries.
 
 ---
 
-### Panel 37: Return  
-*Back to present.*
+### Panel 45: Vijayanagara – 16th Century CE  
+*The grandeur of the empire at its peak. Markets, temples, banners.*
 
-**Lokamahadevi hands the Kalasha to Arnab.*
+**Rameen (awed):**  
+> This is Vijayanagara…  
+> alive.
 
 ---
+
+### Panel 46: The Emperor Appears  
+*Krishna Deva Raya stands tall, armored yet serene.*
+
+**Narration:**  
+A king remembered not just for conquest…  
+but for restraint.
+
+---
+
+### Panel 47: The Threat Revealed  
+*Makadraj, partially awakened, writhes beneath the earth.*
+
+**Narration:**  
+Evil does not always die.  
+Sometimes… it waits.
+
+---
+
+### Panel 48: The Sacred Journey  
+*Krishna Deva Raya walks toward the Tungabhadra.*
+
+**Priest:**  
+> The water from Nandi’s cave, my king.  
+> Where the river breathes in silence.
+
+---
+
+### Panel 49: Nandi’s Cave  
+*Dark cavern. Water glows faintly.*
+
+**Narration:**  
+Not all sacred places shine.  
+Some whisper.
+
+---
+
+### Panel 50: Filling the Kalash  
+*Krishna Deva Raya fills the Kalash.*
+
+**Krishna Deva Raya:**  
+> Let restraint be stronger than rage.  
+> Let wisdom bind what force cannot.
+
+---
+
+### Panel 51: The Final Act  
+*The king splashes the water upon Makadraj.*
+
+**SFX:** `SHHHHHHHHHHH`
+
+---
+
+### Panel 52: Hibernation  
+*Makadraj freezes instantly, turning into stone.*
+
+**Narration:**  
+The demon sleeps.  
+Not defeated.  
+Contained.
+
+---
+
+### Panel 53: The Gopuram Ordered  
+*Krishna Deva Raya gestures firmly.*
+
+**Krishna Deva Raya:**  
+> Build above it.  
+> Let stone and faith stand guard for eternity.
+
+---
+
+### Panel 54: History Set in Motion  
+*Workers raise the Gopuram.*
+
+**Narration:**  
+What the future will call a ruin…  
+was once a seal.
+
+---
+
+### Panel 55: Return to the Present  
+*The vision fades.*
+
+**Arnab:**  
+> Now we know how to end this.
+
+---
+
+### Panel 56: Queen Lokamahadevi’s Acceptance  
+*Lokamahadevi looks at the Kalash in Arnab’s hands.*
+
+**Lokamahadevi:**  
+> Then history has come full circle.
+
+---
+
+### Panel 57: Closing of Issue #4  
+*The time portal stabilizes, glowing steadily.*
+
+**Narration:**  
+Some kings rule lands.  
+Others guard time itself.
+
+---
+
 
 ## ISSUE #5 – WAR OF STONE AND FIRE
 
