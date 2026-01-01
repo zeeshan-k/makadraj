@@ -602,7 +602,7 @@ Contained.
 
 **Narration:**  
 What the future will call a ruin…  
-was once a seal.
+was once a seal for the demonic powers.
 
 ---
 
@@ -650,7 +650,7 @@ The present demands payment.
 **Rameen:**  
 > Listen carefully folks.  
 > We don’t win by fighting everywhere,  
-> We win by fighting **right**.
+> We win by fighting the **right** way.
 
 ---
 
@@ -658,7 +658,7 @@ The present demands payment.
 *Quick cuts of faces.*
 
 **Rameen:**  
-> Anand. Bansari.  
+> Anand! Bansari!  
 > Hold the mainland. Buy us time.
 
 **Rameen (turning):**  
@@ -674,7 +674,8 @@ The present demands payment.
 *Ravi backs away from his coracle, terrified.*
 
 **Ravi:**  
-> Thats not happening! I’ve seen river storms, but never demon wars!
+> Thats not happening! I’ve seen river whirlpools and storms, but never demon wars!
+> This is not my war.
 
 ---
 
@@ -683,7 +684,7 @@ The present demands payment.
 
 **Sekhar (soft, hypnotic):**  
 > You’ve crossed this river your whole life.  
-> Today… the river needs you.
+> Today… the river needs you. If you don't fight back, the war will consume you anyway.
 
 *Ravi swallows hard.*
 
@@ -700,7 +701,7 @@ The present demands payment.
 ---
 
 ### Panel 65: Yali Awakens  
-*Back on land. Anand places his palm on a stone Yali.*
+*Back on the land. Anand places his palm on a stone Yali.*
 
 **SFX:** `ZZZAAAK`
 
@@ -728,7 +729,7 @@ Stone remembers its purpose.
 ---
 
 ### Panel 68: Clash on the Mainland  
-*Yalis charge into waves of demons.*
+*Yalis roar and charge into waves of demons.*
 
 **Narration:**  
 Claws meet chitin.  
@@ -737,9 +738,9 @@ Stone meets demon.
 ---
 
 ### Panel 69: River of Death  
-*The coracle moves through the Tungabhadra.*
+*The coracle moves through the waters of Tungabhadra.*
 
-**Snigdha (tense):**  
+**Sriram (tense):**  
 > Something’s moving under us…
 
 ---
@@ -758,7 +759,7 @@ Stone meets demon.
 **Ravi:**  
 > This is why they call me Revolver Ravi! (winks)
 
-*He spins the coracle violently.*
+*He spins the coracle violently. It causes a giant whirlpool in the river*
 
 ---
 
@@ -779,7 +780,7 @@ Fear recognizes madness.
 ---
 
 ### Panel 74: Zeeshan Feels the Call  
-*Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Raises his head *
+*Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Gently raises his head to observe. *
 
 **Narration:**  
 Fire listens, before it obeys.
@@ -789,13 +790,13 @@ Fire listens, before it obeys.
 ### Panel 75: Agneyastra Appears  
 *A blazing staff manifests in Zeeshan’s hand.*
 
-**Zeeshan (low):**  
+**Zeeshan (in a faint yet firm voice):**  
 > Agneyastram Pradurbhavatu!
 
 ---
 
 ### Panel 76: Fire Unleashed  
-*A colossal stream of fire erupts from the staff.*
+*A colossal stream of fire erupts from the Agneyastra.*
 
 **Narration:**  
 Flame does not negotiate.
