@@ -85,7 +85,7 @@ Now a city of whispers, shadows, and unanswered prayers.
 ---
 
 ### Panel 6: The Fatal Touch  
-*Rameen brushes against a disguised stone slab.*
+*Rameen accidentally presses a disguised stone slab and it clicks in.*
 
 **SFX:** `KRRRRRR—THOOM`
 
@@ -98,9 +98,9 @@ A sound not heard for centuries… awakens.
 *The Gopuram trembles. Massive spider-like limbs tear free out of it.*
 
 **Narration:**  
-Makadraj—  
+Makadraj —  
 the devourer captured beneath the Gopuram.  
-The nightmare that humanity had forgotten.
+The nightmare that humanity had long forgotten.
 
 ---
 
@@ -112,7 +112,7 @@ Centuries of silence shatter in a single breath.
 The earth convulses.  
 The nightmare wakes fully.
 
-*The group panics—some freeze, some stumble backward.*
+*The group panics, some freeze, some stumble backward.*
 
 **Rameen (shouting):**  
 > Everyone—move! We fall back, NOW!
@@ -180,7 +180,7 @@ The nightmare wakes fully.
 ---
 
 ### Panel 13: Varaha’s Call  
-*Arnab is curious about a Varaha sculpture. He accidentally touches a carved Varaha tooth.*
+*Meanwhile Arnab is curious about a Varaha sculpture. He accidentally touches a carved Varaha tooth.*
 
 **SFX:** `FLASH`
 
@@ -281,14 +281,14 @@ Stone remembers every century.
 *Living temples, garlands, rituals.*
 
 **Sriram (awed):**  
-> We’re standing inside a chapter.
+> We’re standing inside a history chapter.
 
 ---
 
 ### Panel 23: Shock  
 
 **Bansari:**  
-> We’re inside history. This is impossible. Am I dreaming?
+> We’re in the history. This is impossible. Am I dreaming?
 
 **Anand (touching a pillar):**  
 > It’s… breathing.
@@ -395,7 +395,7 @@ The past sees the future it will accidentally create.
 > You spoke of a Kalash?
 
 **Snigdha:**  
-> We got clues about a vessel sanctified with purpose.  
+> We got clues about a Kalash sanctified with purpose.  
 > Not for ritual — but restraint of the demons.
 
 ---
@@ -422,7 +422,7 @@ The past sees the future it will accidentally create.
 *Arnab bows deeply.*
 
 **Arnab:**  
-> Humans of the future generations thank you, Your Majesty.  
+> Humans of the future generations thank you, Your Grace.  
 > And they will forever remember your name.
 
 ---
@@ -449,7 +449,7 @@ so the future may survive itself.
 
 **Rameen (urgent):**  
 > Wait.  
-> There was another inscription in Virupaksha of Vijazanagara…  
+> There was another inscription in Virupaksha of Vijayanagara…  
 > I saw it last year.  
 > I didn’t understand it then.
 
@@ -492,7 +492,7 @@ so the future may survive itself.
 
 **Lokamahadevi:**  
 > If this demon survives my age to threaten yours…  
-> then I too must see how it was finally bound.
+> then I too must see how it was finally bound and restarined.
 
 ---
 
@@ -602,7 +602,7 @@ Contained.
 
 **Narration:**  
 What the future will call a ruin…  
-was once a seal.
+was once a seal for the demonic powers.
 
 ---
 
@@ -650,7 +650,7 @@ The present demands payment.
 **Rameen:**  
 > Listen carefully folks.  
 > We don’t win by fighting everywhere,  
-> We win by fighting **right**.
+> We win by fighting the **right** way.
 
 ---
 
@@ -658,7 +658,7 @@ The present demands payment.
 *Quick cuts of faces.*
 
 **Rameen:**  
-> Anand. Bansari.  
+> Anand! Bansari!  
 > Hold the mainland. Buy us time.
 
 **Rameen (turning):**  
@@ -674,7 +674,8 @@ The present demands payment.
 *Ravi backs away from his coracle, terrified.*
 
 **Ravi:**  
-> Thats not happening! I’ve seen river storms, but never demon wars!
+> Thats not happening! I’ve seen river whirlpools and storms, but never demon wars!
+> This is not my war.
 
 ---
 
@@ -683,7 +684,7 @@ The present demands payment.
 
 **Sekhar (soft, hypnotic):**  
 > You’ve crossed this river your whole life.  
-> Today… the river needs you.
+> Today… the river needs you. If you don't fight back, the war will consume you anyway.
 
 *Ravi swallows hard.*
 
@@ -700,7 +701,7 @@ The present demands payment.
 ---
 
 ### Panel 65: Yali Awakens  
-*Back on land. Anand places his palm on a stone Yali.*
+*Back on the land. Anand places his palm on a stone Yali.*
 
 **SFX:** `ZZZAAAK`
 
@@ -728,7 +729,7 @@ Stone remembers its purpose.
 ---
 
 ### Panel 68: Clash on the Mainland  
-*Yalis charge into waves of demons.*
+*Yalis roar and charge into waves of demons.*
 
 **Narration:**  
 Claws meet chitin.  
@@ -737,9 +738,9 @@ Stone meets demon.
 ---
 
 ### Panel 69: River of Death  
-*The coracle moves through the Tungabhadra.*
+*The coracle moves through the waters of Tungabhadra.*
 
-**Snigdha (tense):**  
+**Sriram (tense):**  
 > Something’s moving under us…
 
 ---
@@ -758,7 +759,7 @@ Stone meets demon.
 **Ravi:**  
 > This is why they call me Revolver Ravi! (winks)
 
-*He spins the coracle violently.*
+*He spins the coracle violently. It causes a giant whirlpool in the river*
 
 ---
 
@@ -779,7 +780,7 @@ Fear recognizes madness.
 ---
 
 ### Panel 74: Zeeshan Feels the Call  
-*Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Raises his head *
+*Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Gently raises his head to observe. *
 
 **Narration:**  
 Fire listens, before it obeys.
@@ -789,13 +790,13 @@ Fire listens, before it obeys.
 ### Panel 75: Agneyastra Appears  
 *A blazing staff manifests in Zeeshan’s hand.*
 
-**Zeeshan (low):**  
+**Zeeshan (in a faint yet firm voice):**  
 > Agneyastram Pradurbhavatu!
 
 ---
 
 ### Panel 76: Fire Unleashed  
-*A colossal stream of fire erupts from the staff.*
+*A colossal stream of fire erupts from the Agneyastra.*
 
 **Narration:**  
 Flame does not negotiate.
