@@ -50,10 +50,10 @@ Now a city of whispers, shadows, and unanswered prayers.
 
 ---
 
-### Panel 3: Pattabhirama Temple  
+### Panel 3: Pattabhirama Temple
 *Inside the temple. Sunlight slices through the matrix of ancient pillars.*
 
-**Snigdha** kneels before an inscription.
+**Snigdha** kneels before an inscription written in a long forgotten script.
 
 **Snigdha:**  
 > This isn’t a donation record…  
@@ -75,7 +75,7 @@ Now a city of whispers, shadows, and unanswered prayers.
 ---
 
 ### Panel 5: The Fatal Touch  
-*Rameen brushes a carved slab.*
+*Rameen brushes against a disguised stone slab.*
 
 **SFX:** `KRRRRRR—THOOM`
 
@@ -85,7 +85,7 @@ A sound not heard for centuries… awakens.
 ---
 
 ### Panel 6: Awakening of Makadraj  
-*The Gopuram cracks. Massive spider-like limbs tear free.*
+*The Gopuram trembles. Massive spider-like limbs tear free out of it.*
 
 **Narration:**  
 Makadraj—  
