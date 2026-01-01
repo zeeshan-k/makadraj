@@ -1,5 +1,5 @@
 # CITY TALES: MAKADRAJ KA KHAUF  
-### A Mythic–Historical Comic Saga
+### A History inspired Mythical Comic Saga
 
 > *“Some ruins sleep. Others wait.”*
 
@@ -7,17 +7,19 @@
 
 ## CAST OF CHARACTERS
 
-- **City Tales** – A group of modern history explorers
-- **Rameen** – Leader and guide; connects history, logic, and instinct
-- **Arnab** – Timeless traveler across eras
-- **Snigdha** – Decipherer of inscriptions and hidden languages
-- **Sriram** – Possesses a thunderous voice
-- **Anand** – Can bring sculptures to life by touch
-- **Bansari** – Animal whisperer; commands living sculptures
-- **Sekhar** – Master hypnotist and persuader
-- **Ravi** – Coracle sailor of Tungabhadra; “Revolver Ravi”
-- **Manjunath** – Fearless bus driver and rescuer
-- **Zeeshan** – Bearer of the Agneyastra
+- **Queen Lokamahadevi** – A renowned queen of the Chalukya empire
+- **Krishna Deva Raya** – Greatest Vijayanagara ruler who had managed to contain the evil demons during his rule
+- **City Tales** – A group of modern history explorers  
+- **Rameen** – Leader and guide; connects history, logic, and instinct  
+- **Arnab** – Timeless traveler across eras  
+- **Snigdha** – Decipherer of inscriptions and hidden languages  
+- **Sriram** – Possesses a thunderous voice  
+- **Anand** – Can bring sculptures to life by touch  
+- **Bansari** – Animal whisperer; commands living sculptures  
+- **Sekhar** – Master hypnotist and persuader  
+- **Ravi** – Coracle sailor of Tungabhadra; “Revolver Ravi”  
+- **Manjunath** – Fearless bus driver and rescuer  
+- **Zeeshan** – Bearer of the Agneyastra  
 
 ---
 
@@ -40,35 +42,37 @@ Now a city of whispers, shadows, and unanswered prayers.
 > Remember—don’t just look at the stones.  
 > Listen to them.
 
-**Manjunath (from the driver’s seat):**  
-> I’ll keep the engine warm. Somehow, this place feels… alert.
+**Manjunath:**  
+> I’ll keep the engine warm.  
+> This place feels… awake.
 
 ---
 
 ### Panel 3: Pattabhirama Temple
-*Inside the temple. Sunlight slices through broken roofs.*
+*Inside the temple. Sunlight cuts through a matrix of ancient pillars.*
 
-**Snigdha** kneels before an inscription half-buried in debris.
+**Snigdha** kneels before an inscription in a forgotten script.
 
-**Snigdha (soft, focused):**  
-> This isn’t a donation record… or a victory inscription.
+**Snigdha:**  
+> This isn’t a donation record…  
+> or a victory inscription.
 
 ---
 
 ### Panel 4: The Warning
-*Close-up of glowing ancient letters.*
+*Close-up of glowing letters.*
 
 **Snigdha:**  
 > It speaks of a **sealed terror** beneath the Gopuram.  
 > A protector turned prison.
 
-**Rameen (grim):**  
+**Rameen:**  
 > History doesn’t bury things without reason.
 
 ---
 
 ### Panel 5: The Fatal Touch
-*Rameen brushes against a stone slab while examining carvings.*
+*Rameen brushes against a disguised stone slab.*
 
 **SFX:** `KRRRRRR—THOOM`
 
@@ -77,8 +81,8 @@ A sound not heard for centuries… awakens.
 
 ---
 
-### Panel 6: Birth of Makadraj
-*The Gopuram cracks open. Massive spider-like limbs tear through stone.*
+### Panel 6: Awakening of Makadraj
+*The Gopuram splits. Gigantic spider-like limbs burst forth.*
 
 **Narration:**  
 Makadraj—  
@@ -88,253 +92,262 @@ The nightmare the city forgot.
 ---
 
 ### Panel 7: Rampage
-*Makadraj crushes mandapas. Mini spider demons spill out.*
-
-**Crowds scream. Bells ring wildly. Smoke rises.**
+*Makadraj crushes mandapas. Mini spider demons pour out endlessly.*
 
 ---
 
 ### Panel 8: The Escape
-*Manjunath’s bus drifts between falling boulders.*
+*Manjunath’s bus drifts through falling debris.*
 
-**Manjunath (calm, sharp):**  
+**Manjunath:**  
 > Everyone in. Now.
-
-**Narration:**  
-Steel nerves. Steady hands.  
-A khatron ka khiladi behind the wheel.
 
 ---
 
 ## ISSUE #2 – THE RIDDLE OF TIME
 
 ### Panel 9: Aftermath
-*The group catches their breath near Virupaksha Temple.*
+*Near Virupaksha Temple.*
 
-**Snigdha (shaken):**  
-> The inscription wasn’t finished.  
-> It mentioned a **clue**… here.
+**Snigdha:**  
+> The inscription wasn’t complete.  
+> It mentioned a clue here.
 
 ---
 
-### Panel 10: The Riddle Revealed
-*Stone letters shimmer faintly.*
-
+### Panel 10: The Riddle
 > **Riddle:**  
 > A gyani from beyond the Vindhyas  
 > travels time to stop humanity’s end.  
-> The pot of Chalukyas  
+> The Kalash of Chalukyas  
 > washes the sins of Vijayanagara.
 
 ---
 
-### Panel 11: Confusion
-**Anand:**  
-> Time travel? Pots? Gods?  
-> This is beyond archaeology.
-
-**Rameen:**  
-> Or exactly where archaeology ends.
-
----
-
-### Panel 12: Varaha’s Call
-*Arnab touches a carved **Varaha tooth** embedded in stone.*
+### Panel 11: Varaha’s Call
+*Arnab touches a carved Varaha tooth.*
 
 **SFX:** `FLASH`
 
 ---
 
-### Panel 13: Vision
-*Arnab sees himself as Varaha, lifting the earth from darkness.*
+### Panel 12: Vision
+*Arnab sees Varaha lifting the Earth.*
 
-**Arnab (echoing voice):**  
+**Arnab:**  
 > Time is not a line…  
 > it is a circle.
 
 ---
 
-### Panel 14: Acceptance
-*Arnab collapses to his knees.*
-
+### Panel 13: Acceptance
 **Arnab:**  
 > I can move across eras.  
-> And I think… this is why.
+> And this is why.
 
 ---
 
-### Panel 15: The Conclusion
+### Panel 14: The Conclusion
 **Rameen:**  
-> The riddle doesn’t point to Hampi.  
-> It points to **Pattadakal**—  
-> to the Virupaksha Temple of the Chalukyas.
+> The answer lies in **Pattadakal**—  
+> the Chalukya Virupaksha Temple.
 
 ---
 
 ## ISSUE #3 – THE CHALUKYA CROSSING
 
-### Panel 16: The Chant
-*Arnab opens an old book, murmuring verses.*
-
-**SFX:** `HMMMMMMM`
-
-*A glowing staff forms in his hand.*
+### Panel 15: The Staff
+*Arnab chants. A glowing staff appears.*
 
 ---
 
-### Panel 17: Time Tear
-*Light explodes outward.*
-
-**Narration:**  
-Past and present collapse into one breath.
+### Panel 16: Time Tear
+*Reality collapses.*
 
 ---
 
-### Panel 18: Pattadakal – 8th Century CE
-*Temples gleam with flowers. Conches blow. Drums thunder.*
+### Panel 17: Pattadakal – 8th Century CE
+*Festivals. Flowers. Drums.*
 
 ---
 
-### Panel 19: Royal Entry
-*Lokamahadevi rides in on an elephant.*
-
-**Crowd:**  
-> Jaya Lokamahadevi!
+### Panel 18: Lokamahadevi
+*She enters on an elephant.*
 
 ---
 
-### Panel 20: The Halt
-*Guards block City Tales.*
-
-**Guard:**  
-> Step back, strangers!
-
----
-
-### Panel 21: Thunder Voice
-**Sriram (unleashing power):**  
+### Panel 19: Thunder Voice
+**Sriram:**  
 > WE SEEK AUDIENCE!
 
-**SFX:** `KRAAAAA-THOOM`
+---
 
-*Birds scatter. Guards stagger.*
+### Panel 20: The Tale
+*Time travel. Makadraj. Kalash.*
 
 ---
 
-### Panel 22: The Queen’s Curiosity
-**Lokamahadevi:**  
-> Bring them to me.  
-> Even thunder has a reason.
-
----
-
-### Panel 23: The Impossible Tale
-*Rameen and Arnab explain time travel, Makadraj, Relic-X.*
+### Panel 21: Divine Proof
+*Lokamahadevi sees Arnab’s truth.*
 
 **Lokamahadevi:**  
-> You speak madness wrapped in confidence.
-
----
-
-### Panel 24: Divine Proof
-*Arnab raises the staff. Vision engulfs her.*
-
-**Lokamahadevi (bowing):**  
-> Forgive my doubt.  
-> Lead me.
+> Guide me.
 
 ---
 
 ## ISSUE #4 – KINGS AND KALASH
 
-### Panel 25: 2025 CE
+### Panel 22: Time Portal
+*A portal opens.*
+
+**Arnab:**  
+> You must see the future.
+
+---
+
+### Panel 23: 2025 CE
 *Lokamahadevi witnesses burning Hampi.*
 
-**Lokamahadevi:**  
-> This evil… it survived centuries.
+---
+
+### Panel 24: The Second Inscription
+**Snigdha:**  
+> This speaks of **Krishna Deva Raya**.  
+> He used Tungabhadra’s sacred water…  
+> from this very Kalash.
+
+---
+
+### Panel 25: Decision
+**Arnab:**  
+> Then we go to his time.
 
 ---
 
 ### Panel 26: Krishna Deva Raya’s Era
-*KDR lifts the Kalash.*
-
-**Narration:**  
-Sacred water.  
-Ancient science.  
-Divine command.
+*The king stands with the Kalash.*
 
 ---
 
-### Panel 27: The Seal
-*KDR orders the Gopuram built.*
+### Panel 27: Containment
+*Sacred water splashes Makadraj.*
 
-**KDR:**  
+**Krishna Deva Raya:**  
 > Let stone guard what swords cannot.
 
 ---
 
-### Panel 28: The Gift
-*Back in Pattadakal.*
-
-**Lokamahadevi hands the Kalash to Arnab.**
+### Panel 28: Return
+*Back to 2025 CE.*
 
 ---
 
 ## ISSUE #5 – WAR OF STONE AND FIRE
 
-### Panel 29: Living Yalis
-*Anand touches a pillar.*
-
-**SFX:** `ZAP`
-
-**Bansari:**  
-> Protect the city!
-
-*Yalis roar to life.*
+### Panel 29: The Split
+**Rameen:**  
+> Anand, Bansari—hold the demons.  
+> Rest of us—river. Now.
 
 ---
 
-### Panel 30: River of Danger
-*Ravi spins the coracle.*
-
-**Ravi:**  
-> This is why they call me Revolver Ravi!
-
-*Crocodiles retreat.*
+### Panel 30: Living Yalis
+*Anand awakens Yalis. Bansari commands them.*
 
 ---
 
-### Panel 31: Agneyastra
-*Zeeshan lifts a stick—it ignites.*
+### Panel 31: Revolver Ravi
+*The coracle spins. Crocodiles flee.*
 
+---
+
+### Panel 32: Landing Ashore
+*The group jumps onto the riverbank.*
+
+**Narration:**  
+But the shore is not empty.
+
+---
+
+### Panel 33: Flood of Demons
+*Mini spider demons surge from cracks, rocks, trees—everywhere.*
+
+**Narration:**  
+They are too many.  
+The land itself seems to birth them.
+
+**Sekhar:**  
+> We’re surrounded!
+
+---
+
+### Panel 34: Overrun
+*Demons crawl over ruins, rush toward the group.*
+
+**Rameen:**  
+> If we stop here—  
+> the Kalash never reaches the Gopuram.
+
+---
+
+### Panel 35: The Awakening of Fire
+*Zeeshan picks up a wooden stick.*
+
+**SFX:** `WHOOM`
+
+*It ignites.*
+
+**Narration:**  
+Agneyastra awakens.
+
+---
+
+### Panel 36: Agneyastra Unleashed
 **Zeeshan:**  
 > Fire remembers its purpose.
 
+*Walls of flame tear through the demon horde.*
+
 ---
 
-### Panel 32: Final Battle
-*Makadraj writhes as fire hits.*
+### Panel 37: Path of Fire
+*As they walk the 1 km stretch toward Pattabhirama Temple, Zeeshan leads.*
 
 **Narration:**  
-Fire weakens.  
-Water ends.
+Step by step.  
+Flame by flame.  
+The road burns clean.
 
 ---
 
-### Panel 33: Eternal Sleep
-*Sacred water splashes.*
+### Panel 38: Near Extinction
+*Charred demon remains everywhere.*
+
+**Narration:**  
+Not victory—  
+but survival.
+
+---
+
+### Panel 39: Makadraj’s Lair
+*They reach the Gopuram. Makadraj writhes, spawning more demons.*
+
+---
+
+### Panel 40: Final Seal
+*Sacred water from the Kalash splashes Makadraj.*
 
 **SFX:** `SHHHHHHHHH`
 
 **Narration:**  
-Makadraj returns to stone.  
-History exhales.
+The river stills the hunger.  
+Stone reclaims the beast.
 
 ---
 
 ## FINAL SPLASH PAGE
 
-*Hampi at dusk. Quiet.*
+*Hampi at dusk. Silence.*
 
 **Rameen:**  
 > History isn’t dead.  
