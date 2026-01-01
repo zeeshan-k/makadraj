@@ -361,12 +361,12 @@ The queen who carved devotion into stone.
 
 **Court Scholar:**  
 > Time travelers? Monsters?  
-> This sounds like theater! Why should anyone believe you?
+> This sounds like fantasy! Why should anyone believe you?
 
 ---
 
 ### Panel 31: Arnab Steps Forward
-*Arnab removes his gloves. Ancient scars glow faintly.*
+*Arnab rolls up his sleeves. Ancient scars glow faintly.*
 
 **Arnab:**  
 > Then allow time to testify.
