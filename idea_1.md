@@ -410,12 +410,12 @@ so the future may survive itself.
 ---
 
 ### Panel 38: A Memory Rekindled  
-*Close-up of Snigdha. Her eyes widen as she recalls something.*
+*Close-up of Rameen. His eyes widen as he recalls something.*
 
-**Snigdha (urgent):**  
+**Rameen (urgent):**  
 > Wait.  
-> There was another inscription…  
-> I read it years ago.  
+> There was another inscription in Virupaksha of Vijazanagara…  
+> I saw it last year.  
 > I didn’t understand it then.
 
 ---
@@ -424,8 +424,8 @@ so the future may survive itself.
 *Visual overlay of an ancient stone slab, words etched deep.*
 
 **Snigdha (narration):**  
-> It spoke of a king who did not merely rule…  
-> but **contained**.  
+> It speaks of a king who did not merely rule…  
+> but **contained** the evil.  
 > Krishna Deva Raya.
 
 ---
@@ -467,7 +467,7 @@ so the future may survive itself.
 **Arnab (chanting):**  
 > Kaala pravaha…  
 > Itihaasa sakshi…  
-> Vijayanagaraaya namah!
+> Vijayanagaram gachchhamah!
 
 **SFX:** `WHOOOOOM`
 
@@ -557,7 +557,7 @@ Contained.
 *Krishna Deva Raya gestures firmly.*
 
 **Krishna Deva Raya:**  
-> Build above it.  
+> Build a grand Gopuram above it.  
 > Let stone and faith stand guard for eternity.
 
 ---
@@ -596,71 +596,264 @@ Others guard time itself.
 
 ---
 
-
-## ISSUE #5 – WAR OF STONE AND FIRE
+## ISSUE #5 – FIRE, WATER, AND THE END OF MAKADRAJ
 
 ---
 
-### Panel 38: The Split  
+### Panel 58: The City in Crisis  
+*Wide shot of Hampi. Fires rage. Mini spider demons swarm across ruins.*
+
+**Narration:**  
+The past warned them.  
+The present demands payment.
+
+---
+
+### Panel 59: Rameen Takes Command  
+*Rameen stands at the riverbank, shouting over chaos.*
+
+**Rameen:**  
+> Listen carefully folks.  
+> We don’t win by fighting everywhere,  
+> We win by fighting **right**.
+
+---
+
+### Panel 60: The Split  
+*Quick cuts of faces.*
 
 **Rameen:**  
 > Anand. Bansari.  
-> Stop the demons.
+> Hold the mainland. Buy us time.
+
+**Rameen (turning):**  
+> Arnab, Snigdha, Sriram, Sekhar  
+> you’re with me. We get the water.
+
+**Zeeshan (calm, focused):**  
+> I’ll guard the shore.
 
 ---
 
-### Panel 39: Living Yalis  
-*Yalis roar to life.*
+### Panel 61: Reluctant Sailor  
+*Ravi backs away from his coracle, terrified.*
+
+**Ravi:**  
+> Thats not happening! I’ve seen river storms, but never demon wars!
 
 ---
 
-### Panel 40: River Escape  
-*Ravi spins the coracle.*
+### Panel 62: Sekhar’s Persuasion  
+*Sekhar locks eyes with Ravi.*
+
+**Sekhar (soft, hypnotic):**  
+> You’ve crossed this river your whole life.  
+> Today… the river needs you.
+
+*Ravi swallows hard.*
 
 ---
 
-### Panel 41: Shore Ambush  
-*Mini spider demons flood the banks.*
+### Panel 63: Revolver Ravi Agrees  
+*Ravi steps into the coracle.*
+
+**Ravi:**  
+> Fine.  
+> But if we sink,  
+> haunt me politely.
+
+---
+
+### Panel 64: Yali Awakens  
+*Back on land. Anand places his palm on a stone Yali.*
+
+**SFX:** `ZZZAAAK`
+
+*Lightning surges through the sculpture.*
+
+---
+
+### Panel 65: Stone Becomes Flesh  
+*Yalis roar to life, eyes blazing.*
 
 **Narration:**  
-Too many.  
-Endless.
+Stone remembers its purpose.
 
 ---
 
-### Panel 42: The Agneyastra Awakens  
-*Zeeshan ignites the weapon.*
+### Panel 66: The Whisperer  
+*Bansari raises her hand, calm amid chaos.*
 
-**Zeeshan:**  
-> Fire remembers.
+**Bansari:**  
+> You were carved to guard.  
+> Now is the time… defend!
+
+*The Yalis bow.*
 
 ---
 
-### Panel 43: One Kilometer of Fire  
-*Zeeshan leads the charge toward the Gopuram.*
+### Panel 67: Clash on the Mainland  
+*Yalis charge into waves of demons.*
 
 **Narration:**  
-A burning path through darkness.
+Claws meet chitin.  
+Stone meets demon.
 
 ---
 
-### Panel 44: Demons Fall  
-*Ash everywhere.*
+### Panel 68: River of Death  
+*The coracle moves through the Tungabhadra.*
+
+**Snigdha (tense):**  
+> Something’s moving under us…
 
 ---
 
-### Panel 45: Final Seal  
-*Sacred water splashes Makadraj.*
+### Panel 69: Crocodile Ambush  
+*Dozens of crocodiles surround the boat.*
+
+**Arnab:**  
+> Ravi… now would be a good time.
+
+---
+
+### Panel 70: Revolver Ravi  
+*Ravi grins nervously.*
+
+**Ravi:**  
+> This is why they call me Revolver Ravi! (winks)
+
+*He spins the coracle violently.*
+
+---
+
+### Panel 71: River Clears  
+*Crocs scatter in panic.*
+
+**Narration:**  
+Fear recognizes madness.
+
+---
+
+### Panel 72: Mainland Turning Grim  
+*Yalis begin to falter. Demons overwhelm them.*
+
+**Bansari (strained):**  
+> Anand… they’re too many!
+
+---
+
+### Panel 73: Zeeshan Feels the Call  
+*Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Raises his head *
+
+**Narration:**  
+Fire listens, before it obeys.
+
+---
+
+### Panel 74: Agneyastra Appears  
+*A blazing staff manifests in Zeeshan’s hand.*
+
+**Zeeshan (low):**  
+> Agneyastram Pradurbhavatu!
+
+---
+
+### Panel 75: Fire Unleashed  
+*A colossal stream of fire erupts from the staff.*
+
+**Narration:**  
+Flame does not negotiate.
+
+---
+
+### Panel 76: Demons Obliterated  
+*Entire waves of demons vanish into ash.*
+
+**Anand (stunned):**  
+> That… was inside him all along?
+
+---
+
+### Panel 77: Boat Returns  
+*The coracle reaches shore safely.*
+
+**Rameen:**  
+> Move! To Pattabhirama. Now!
+
+---
+
+### Panel 78: A walk of Fire  
+*Zeeshan leads the group toward the temple, torching the demons.*
+
+**Narration:**  
+Every step forward  
+burns the past’s mistake.
+
+---
+
+### Panel 79: The Gopuram Revealed  
+*Makadraj rises in full, colossal form.*
+
+**Narration:**  
+The nightmare stands whole.
+
+---
+
+### Panel 80: Agneyastra vs Makadraj  
+*Fire engulfs Makadraj. It writhes in agony.*
+
+**Narration:**  
+Fire wounds.  
+But cannot finish.
+
+---
+
+### Panel 81: The Final Act  
+*Rameen steps forward with the Kalash.*
+
+**Rameen (firm):**  
+> This ends now.
+
+---
+
+### Panel 82: Sacred Water  
+*The Tungabhadra water splashes Makadraj.*
+
+**SFX:** `SHHHHHHHHH`
+
+---
+
+### Panel 83: Eternal Sleep  
+*Makadraj freezes into stone, limbs locking mid-roar.*
+
+**Narration:**  
+Not slain.  
+Sealed.  
+Again.
+
+---
+
+### Panel 84: Silence  
+*Ash settles. Fires die.*
+
+---
+
+### Panel 85: Aftermath  
+*The group stands exhausted.*
+
+**Rameen:**  
+> History held… this time.
 
 ---
 
 ## FINAL SPLASH PAGE
 
-*Hampi at dusk.*
+*Hampi at dawn.*
 
-**Rameen:**  
-> History isn’t dead.  
-> It waits.
+**Narration:**  
+Some ruins sleep.  
+Others remember.
 
 ---
 
