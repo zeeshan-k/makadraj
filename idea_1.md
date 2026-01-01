@@ -85,7 +85,7 @@ Now a city of whispers, shadows, and unanswered prayers.
 ---
 
 ### Panel 6: The Fatal Touch  
-*Rameen brushes against a disguised stone slab.*
+*Rameen accidentally presses a disguised stone slab and it clicks in.*
 
 **SFX:** `KRRRRRR—THOOM`
 
@@ -98,9 +98,9 @@ A sound not heard for centuries… awakens.
 *The Gopuram trembles. Massive spider-like limbs tear free out of it.*
 
 **Narration:**  
-Makadraj—  
+Makadraj —  
 the devourer captured beneath the Gopuram.  
-The nightmare that humanity had forgotten.
+The nightmare that humanity had long forgotten.
 
 ---
 
@@ -112,7 +112,7 @@ Centuries of silence shatter in a single breath.
 The earth convulses.  
 The nightmare wakes fully.
 
-*The group panics—some freeze, some stumble backward.*
+*The group panics, some freeze, some stumble backward.*
 
 **Rameen (shouting):**  
 > Everyone—move! We fall back, NOW!
@@ -180,7 +180,7 @@ The nightmare wakes fully.
 ---
 
 ### Panel 13: Varaha’s Call  
-*Arnab is curious about a Varaha sculpture. He accidentally touches a carved Varaha tooth.*
+*Meanwhile Arnab is curious about a Varaha sculpture. He accidentally touches a carved Varaha tooth.*
 
 **SFX:** `FLASH`
 
@@ -281,14 +281,14 @@ Stone remembers every century.
 *Living temples, garlands, rituals.*
 
 **Sriram (awed):**  
-> We’re standing inside a chapter.
+> We’re standing inside a history chapter.
 
 ---
 
 ### Panel 23: Shock  
 
 **Bansari:**  
-> We’re inside history. This is impossible. Am I dreaming?
+> We’re in the history. This is impossible. Am I dreaming?
 
 **Anand (touching a pillar):**  
 > It’s… breathing.
@@ -395,7 +395,7 @@ The past sees the future it will accidentally create.
 > You spoke of a Kalash?
 
 **Snigdha:**  
-> We got clues about a vessel sanctified with purpose.  
+> We got clues about a Kalash sanctified with purpose.  
 > Not for ritual — but restraint of the demons.
 
 ---
@@ -422,7 +422,7 @@ The past sees the future it will accidentally create.
 *Arnab bows deeply.*
 
 **Arnab:**  
-> Humans of the future generations thank you, Your Majesty.  
+> Humans of the future generations thank you, Your Grace.  
 > And they will forever remember your name.
 
 ---
@@ -449,7 +449,7 @@ so the future may survive itself.
 
 **Rameen (urgent):**  
 > Wait.  
-> There was another inscription in Virupaksha of Vijazanagara…  
+> There was another inscription in Virupaksha of Vijayanagara…  
 > I saw it last year.  
 > I didn’t understand it then.
 
@@ -492,7 +492,7 @@ so the future may survive itself.
 
 **Lokamahadevi:**  
 > If this demon survives my age to threaten yours…  
-> then I too must see how it was finally bound.
+> then I too must see how it was finally bound and restarined.
 
 ---
 
