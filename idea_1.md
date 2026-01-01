@@ -780,7 +780,7 @@ Fear recognizes madness.
 ---
 
 ### Panel 74: Zeeshan Feels the Call  
-*Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Gently raises his head to observe. *
+*Zeeshan stands still, exhausted, taking suport from a wooden stick. Wind howls around him. Gently raises his head to observe.*
 
 **Narration:**  
 Fire listens, before it obeys.
@@ -788,7 +788,7 @@ Fire listens, before it obeys.
 ---
 
 ### Panel 75: Agneyastra Appears  
-*A blazing staff manifests in Zeeshan’s hand.*
+*As he raises his hand, a blazing staff manifests in Zeeshan’s hand.*
 
 **Zeeshan (in a faint yet firm voice):**  
 > Agneyastram Pradurbhavatu!
@@ -820,7 +820,7 @@ Flame does not negotiate.
 ---
 
 ### Panel 79: A walk of Fire  
-*Zeeshan leads the group toward the temple, torching the demons.*
+*Zeeshan leads the group toward the temple, torching the demons all the way with the fire that resembles the Sun itself.*
 
 **Narration:**  
 Every step forward  
